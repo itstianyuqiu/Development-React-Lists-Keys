@@ -36,11 +36,3 @@
         transform: rotate(360deg);
     }
 }
-
-.over {
-    background-color: #282c34;
-}
-
-.out {
-    background-color: #61dafb;
-}
